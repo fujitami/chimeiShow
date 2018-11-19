@@ -1,24 +1,11 @@
-# README
+#Chimei Show!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+空港の名前がランダムで出ます、あとやっつけで景気付けてもくれます、良い旅を
 
-Things you may want to cover:
+※現在定期便が出てない空港もラインナップされてしまっているようです、嘆かわしいことです
 
-* Ruby version
+制作期間 11/20 AM0:00-3:00くらい
 
-* System dependencies
+## demo play
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Image from Gyazo](https://thumb.gyazo.com/thumb/200/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfNDY4ZDNlMDgxMmNlYTdiY2Q2YTFjYWFjNTMyNGExZGEifQ.zSUP4QSLeExdGEz8BjzsVV9WQ2eED4kLDrVrjeENReY-gif.gif)](https://gyazo.com/e14eb5027ee74ea17cfe3754683016ab)
