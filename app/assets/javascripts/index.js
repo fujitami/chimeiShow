@@ -6,13 +6,6 @@ function chimeiShow(chimei) {
 }
 
 function letsGo() {
-  // $('chimei').hover(
-  //   function() {
-  //     $('#chimeiField').append(`<h1 id="letsGo">最高の旅</h1>`);
-  //   }, function() {
-  //     $('#chimeiField').find('h1:last').remove();
-  //   }
-  // )
   chimei = document.getElementById('chimei');
   chimei.addEventListener('mouseover', () => {
     chimeiField.insertAdjacentHTML('beforeend', '<h1 id="letsGo">最高の旅</h1>');
